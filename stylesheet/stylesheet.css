@@ -1,0 +1,25 @@
+body{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+h1{
+    font-size: 3em;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    font-size: 3em;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.description {
+    font-size: 2em;
+}
+
+.examples {
+    color:darkgray;
+    font-size: 1.2em;
+}
